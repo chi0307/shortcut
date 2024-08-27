@@ -1,4 +1,18 @@
 {
+  "00000000-0000-0000-0000-000000000000": [
+    {
+      "title": "測試捷徑",
+      "version": "1.0",
+      "changelog": "更新捷徑123",
+      "link": "464403e073eb4461b02ff7b5953563f8"
+    },
+    {
+      "title": "測試捷徑",
+      "version": "0.0",
+      "changelog": "初始化捷徑",
+      "link": "afa1c8cfb9c848808f76f56c63e7fcad"
+    }
+  ],
   "d4ebbdbc-2abf-4cd5-8fa6-166a12fb92c5": [
     {
       "changelog": "pdf 輸出成照片、pdf 轉出部份頁面、pdf 輸出成照片並且合併成一張圖片",
@@ -7,26 +21,20 @@
       "version": "1.0"
     }
   ],
-  "00000000-0000-0000-0000-000000000000": [
-    {
-        "title": "測試捷徑",
-        "version": "1.0",
-        "changelog": "更新捷徑123",
-        "link": "464403e073eb4461b02ff7b5953563f8"
-    },
-    {
-        "title": "測試捷徑",
-        "version": "0.0",
-        "changelog": "初始化捷徑",
-        "link": "afa1c8cfb9c848808f76f56c63e7fcad"
-    }
-  ],
   "f31ad964-eb38-4977-8c0e-7bda520f64d7": [
     {
       "title": "更新捷徑",
       "version": "1.0",
       "changelog": "initial shortcut",
       "link": "f19604a3fb134046940f9b08165e7a9a"
+    }
+  ],
+  "933545a2-9d1f-4125-9356-b3c6b5b713aa": [
+    {
+      "title": "浮水印",
+      "version": "1.0",
+      "changelog": "初始化浮水印捷徑",
+      "link": "48538830305140209b122c34b393bc72"
     }
   ]
 }
