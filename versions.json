@@ -20,5 +20,13 @@
         "changelog": "初始化捷徑",
         "link": "afa1c8cfb9c848808f76f56c63e7fcad"
     }
+  ],
+  "f31ad964-eb38-4977-8c0e-7bda520f64d7": [
+    {
+      "title": "更新捷徑",
+      "version": "1.0",
+      "changelog": "initial shortcut",
+      "link": "88cee1fb521c495096053529b3be7d15"
+    }
   ]
 }
