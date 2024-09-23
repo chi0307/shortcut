@@ -15,6 +15,12 @@
   ],
   "d4ebbdbc-2abf-4cd5-8fa6-166a12fb92c5": [
     {
+      "changelog": "修正網頁 pdf 輸入捷徑問題",
+      "link": "9c8985f861df4579a45e9f5780a2d0d1",
+      "title": "PDF 轉換應用",
+      "version": "1.2"
+    },
+    {
       "changelog": "pdf 輸出成照片、pdf 轉出部份頁面、pdf 輸出成照片並且合併成一張圖片",
       "link": "344cef6c058e4ede8c778df312d0b8dc",
       "title": "PDF 轉換應用",
